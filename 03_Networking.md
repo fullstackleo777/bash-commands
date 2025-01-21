@@ -1,4 +1,4 @@
-# 3. **Networking Commands**
+# 3. **Networking**
    - `ifconfig` or `ip a` – Displays network interfaces and their configurations.
    - `ping <hostname/IP>` – Checks connectivity to a remote host.
    - `netstat -tuln` – Shows active network connections and listening ports.
