@@ -1,4 +1,4 @@
-![Bash Commands Cover Image](![Bashrc Cover Image](https://raw.githubusercontent.com/fullstackleo777/covers/refs/heads/main/covers/bashrc/cover_bashrc.png))
+![Bash Commands Cover Image](![Bashrc Cover Image](https://raw.githubusercontent.com/fullstackleo777/covers/refs/heads/main/covers/bash-commands/cover_bash-commands.png))
 
 # bash-commands
 General use bash commands
